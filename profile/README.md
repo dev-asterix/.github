@@ -22,7 +22,7 @@
 <tr>
 <td width="50%">
 
-### 🐘 [PgStudio](https://github.com/dev-asterix/PgStudio)
+### 🐘 [NexQL](https://github.com/dev-asterix/NexQL)
 **Intelligent PostgreSQL tooling for VS Code**
 
 Build, explore, and query Postgres faster with smart features and modern UX.
